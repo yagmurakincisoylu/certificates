@@ -10,7 +10,7 @@
   # HTML5 and CSS3:
   ![HTML5 and CSS3](./images/HTML5%20ve%20CSS3%20-%20Ders%201.PNG)
   ![HTML5 and CSS3](./images/HTML5%20ve%20CSS3%20-%20Ders%202.png)
-  ![HTML5 and CSS3](./images/HTML5%20ve%20CSS3%20-%20Ders%203.PNG)
+  ![HTML5 and CSS3](./images/HTML5%20ve%20CSS3%20-%20Ders%203.png)
 
   # CSS
   ![CSS](./images/CSS.png)
